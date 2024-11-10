@@ -317,19 +317,21 @@
 // console.log(fruitOne)
 // console.log(fruitTwo)
 
-const userProfile = {
-    name: 'amir',
-    commentsQuantity: 23,
-    hasAssigned: false,
-}
+// const userProfile = {
+//     name: 'amir',
+//     commentsQuantity: 23,
+//     hasAssigned: false,
+// }
 
-const userInfo = ({name, commentsQuantity}) =>{
-    if (!commentsQuantity){
-        return `User ${name} has no comments`
-    }
-    return `User ${name} has ${commentsQuantity} comments`
-}
+// const userInfo = ({name, commentsQuantity}) =>{
+//     if (!commentsQuantity){
+//         return `User ${name} has no comments`
+//     }
+//     return `User ${name} has ${commentsQuantity} comments`
+// }
 
 
 
-userInfo(userProfile)
+// userInfo(userProfile)
+
+
