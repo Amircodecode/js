@@ -413,3 +413,6 @@
 // console.log(array[1])
 // console.log(array[2])
 
+for (let i = 0; i <= 4; i++) {
+    console.table(i)
+}
