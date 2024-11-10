@@ -485,21 +485,21 @@
 
 // name2()
 
-class Comment {
-    constructor(text) {
-        this.text = text
-        this.votesQty = 0
-    }
-    upvote() {
-        this.votesQty += 1
-    }
-    static mergeComments(first, second){
-        return `${first} ${second}`
-    }
-}
+// class Comment {
+//     constructor(text) {
+//         this.text = text
+//         this.votesQty = 0
+//     }
+//     upvote() {
+//         this.votesQty += 1
+//     }
+//     static mergeComments(first, second){
+//         return `${first} ${second}`
+//     }
+// }
 
-Comment.mergeComments('First comment.', 'Second comment')
-const firstComment = new Comment('first comment')
+// Comment.mergeComments('First comment.', 'Second comment')
+// const firstComment = new Comment('first comment')
 
 // console.log(firstComment)
 
@@ -507,3 +507,5 @@ const firstComment = new Comment('first comment')
 // console.log(firstComment.votesQty)
 // firstComment.upvote()
 // console.log(firstComment.votesQty)
+
+
