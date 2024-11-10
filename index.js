@@ -509,3 +509,16 @@
 // console.log(firstComment.votesQty)
 
 
+// class NumbersArray extends Array {
+//     sum() {
+//         return this.reduce((el, acc) => acc += el, 0)
+//     }
+// }
+
+// const myArray = new NumbersArray(2, 3, 4)
+
+// console.log(myArray)
+// myArray.sum()
+
+// console.log(Math.round(2.34565432))
+
