@@ -373,14 +373,15 @@
 //     console.log('is child')
 // }
 
-const sumPositiveNumbers = (a, b) => {
-    if (typeof a !== 'number' || typeof b !== 'number')
-        return 'one of the integers in not a number'
+// const sumPositiveNumbers = (a, b) => {
+//     if (typeof a !== 'number' || typeof b !== 'number')
+//         return 'one of the integers in not a number'
 
-    if (a <= 0 || b <= 0)
-        return 'numbers are positive'
+//     if (a <= 0 || b <= 0)
+//         return 'numbers are positive'
 
-    return a + b
-}
+//     return a + b
+// }
 
-setTimeout(sumPositiveNumbers(2,4), 1000)
+// setTimeout(sumPositiveNumbers(2,4), 1000)
+
