@@ -414,5 +414,6 @@
 // console.log(array[2])
 
 for (let i = 0; i <= 4; i++) {
-    console.table(i)
+    console.log(i)
+    console.log('ohhh yeah')
 }
