@@ -435,10 +435,20 @@
 //     i++
 // }
 
-let i = 0
+// let i = 0
 
-do {
-    console.log(i)
-    i++
-} while (i<5)
-    
+// do {
+//     console.log(i)
+//     i++
+// } while (i<5)
+
+
+const data = {
+    x: 19,
+    y: true,
+    z: 'abs'
+}
+
+for (const key in data){
+    console.log(key, data[key])
+}
