@@ -428,9 +428,9 @@
 //     console.log(element, index)
 // })
 
-let i = 5
+// let i = 5
 
-while (i < 10) {
-    console.log(i)
-    i++
-}
+// while (i < 10) {
+//     console.log(i)
+//     i++
+// }
