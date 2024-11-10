@@ -443,12 +443,21 @@
 // } while (i<5)
 
 
-const data = {
-    x: 19,
-    y: true,
-    z: 'abs'
-}
+// const data = {
+//     x: 19,
+//     y: true,
+//     z: 'abs'
+// }
 
-for (const key in data){
-    console.log(key, data[key])
-}
+// for (const key in data){
+//     console.log(key, data[key])
+// }
+
+// Object.keys(data).forEach(keys => {
+//     console.log(keys, data[keys])
+// })
+
+// Object.values(data).forEach(value =>{
+//     console.log(value)
+// })
+
