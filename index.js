@@ -316,3 +316,9 @@
 // const [fruitOne, fruitTwo] = fruits
 // console.log(fruitOne)
 // console.log(fruitTwo)
+
+const userProfile = {
+    name: 'amir',
+    commentsQuantity: 23,
+    hasAssigned: false,
+}
