@@ -399,9 +399,9 @@
 // const a = 29
 // const b = 34
 
-let value = 12
-console.log(value >= 0 ? value : -value)
+// let value = 12
+// console.log(value >= 0 ? value : -value)
 
-value = -5
-const res = value >= 0 ? value : -value
-console.log(res)
+// value = -5
+// const res = value >= 0 ? value : -value
+// console.log(res)
