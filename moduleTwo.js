@@ -1,13 +1,13 @@
-// import sum from './moduleOne.js'
+import { sum, 
+    multiplication as multNumbers } from './moduleOne.js'
 
-// const res1 = sum(10, 2)
-// console.log(res1)
+console.log(sum(10,2))
+console.log(multNumbers(10,2))
+// import {
+//     one as a,
+//     two
+// }from './moduleOne.js'
 
-import {
-    one as a,
-    two
-}from './moduleOne.js'
+// console.log(a)
 
-console.log(a)
-
-console.log(two)
+// console.log(two)

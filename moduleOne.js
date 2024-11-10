@@ -1,10 +1,15 @@
-// const sum = (a, b) => a + b
-// export default sum
-
-const one = 1
-const two = 'two'
-
+const sum = (a, b) => a + b
+const multiplication = (a, b) => a * b
 export {
-    one,
-    two
+    sum,
+    multiplication
+    
 }
+
+// const one = 1
+// const two = 'two'
+
+// export {
+//     one,
+//     two
+// }
