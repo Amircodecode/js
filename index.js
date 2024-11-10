@@ -345,3 +345,10 @@
 
 // console.log(!undefined)
 
+// const person = {
+//     age: 20
+// }
+
+// if (!person.name){
+//     console.log("Your name is not entered")
+// }
