@@ -481,6 +481,6 @@
 //     console.log(element)
 // })
 
-import name2 from './index2.js'
+// import name2 from './index2.js'
 
-name2()
+// name2()

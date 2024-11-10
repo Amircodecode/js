@@ -1,5 +1,5 @@
-const name = () => {
-    console.log('amir')
-}
+// const name = () => {
+//     console.log('amir')
+// }
 
-export default name
+// export default name
