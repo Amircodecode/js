@@ -468,8 +468,15 @@
 //     console.log(array[key])
 // }
 
-const myString = 'abc'
+// const myString = 'abc'
 
-for (const letters of myString) {
-    console.log(letters)
-}
+// for (const letters of myString) {
+//     console.log(letters)
+// }
+// is not for objects
+
+const array = [1, 'amir', true, 'abc']
+
+array.forEach(element => {
+    console.log(element)
+})
