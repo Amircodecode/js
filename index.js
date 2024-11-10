@@ -353,12 +353,13 @@
 //     console.log("Your name is not entered")
 // }
 
-let val = 10
+// let val = 10
 
-if (val < 5) {
-    val += 20
-} else {
-    val -= 20
-}
+// if (val < 5) {
+//     val += 20
+// } else {
+//     val -= 20
+// }
 
-console.log(val)
+// console.log(val)
+
