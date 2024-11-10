@@ -9,4 +9,5 @@ import {
 }from './moduleOne.js'
 
 console.log(a)
+
 console.log(two)
