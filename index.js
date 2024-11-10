@@ -462,8 +462,14 @@
 // })
 
 
-const array = [1, 'amir', true, 'abc']
+// const array = [1, 'amir', true, 'abc']
 
-for (const key in array){
-    console.log(array[key])
+// for (const key in array){
+//     console.log(array[key])
+// }
+
+const myString = 'abc'
+
+for (const letters of myString) {
+    console.log(letters)
 }
