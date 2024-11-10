@@ -385,13 +385,23 @@
 
 // setTimeout(sumPositiveNumbers(2,4), 1000)
 
-const month = 2
+// const month = 2
 
-switch (month) {
-    case 1:
-        console.log('January')
-        break
-    case 2:
-        console.log('February')
-        break
-}
+// switch (month) {
+//     case 1:
+//         console.log('January')
+//         break
+//     case 2:
+//         console.log('February')
+//         break
+// }
+
+// const a = 29
+// const b = 34
+
+let value = 12
+console.log(value >= 0 ? value : -value)
+
+value = -5
+const res = value >= 0 ? value : -value
+console.log(res)
