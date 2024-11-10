@@ -461,4 +461,9 @@
 //     console.log(value)
 // })
 
-    
+
+const array = [1, 'amir', true, 'abc']
+
+for (const key in array){
+    console.log(array[key])
+}
