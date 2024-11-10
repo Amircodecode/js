@@ -372,3 +372,8 @@
 // }else{
 //     console.log('is child')
 // }
+
+const sumPositiveNumbers = (a, b) => {
+    if (typeof a !== 'number' || typeof b !== 'number')
+        return 'one of the integers in not a number'
+}
