@@ -413,7 +413,12 @@
 // console.log(array[1])
 // console.log(array[2])
 
-for (let i = 0; i <= 4; i++) {
-    console.log(i)
-    console.log('ohhh yeah')
+// for (let i = 0; i <= 4; i++) {
+//     console.log(i)
+//     console.log('ohhh yeah')
+// }
+
+const array = [2, true, 'abc']
+for (let i = 0; i<array.length; i++){
+    console.log(array[i])
 }
