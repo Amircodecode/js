@@ -363,12 +363,12 @@
 
 // console.log(val)
 
-const age = 4
+// const age = 4
 
-if (age >= 18) {
-    console.log('is adult')
-} else if (age >= 12 && age < 18) {
-    console.log('is the teenager')
-}else{
-    console.log('is child')
-}
+// if (age >= 18) {
+//     console.log('is adult')
+// } else if (age >= 12 && age < 18) {
+//     console.log('is the teenager')
+// }else{
+//     console.log('is child')
+// }
