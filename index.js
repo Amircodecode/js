@@ -475,8 +475,9 @@
 // }
 // is not for objects
 
-const array = [1, 'amir', true, 'abc']
+// const array = [1, 'amir', true, 'abc']
 
-array.forEach(element => {
-    console.log(element)
-})
+// array.forEach(element => {
+//     console.log(element)
+// })
+
