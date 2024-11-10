@@ -322,3 +322,11 @@ const userProfile = {
     commentsQuantity: 23,
     hasAssigned: false,
 }
+
+const usetInfo = ({name, commentsQuantity}) =>{
+    if (!commentsQuantity){
+        return `User ${name} has no comments`
+    }
+    return `Uset ${name} has ${commentsQuantity} comments`
+}
+
